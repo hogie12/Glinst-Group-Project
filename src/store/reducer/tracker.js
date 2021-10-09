@@ -33,7 +33,6 @@ const trackerData = (state = initialState, action) => {
     case types.CREATE_TRACKER + "_BEGIN":
       return {
         ...state,
-        isLoading: true,
       };
     case types.CREATE_TRACKER + "_SUCCESS":
       return {
@@ -51,7 +50,6 @@ const trackerData = (state = initialState, action) => {
     case types.DELETE_TRACKER + "_BEGIN":
       return {
         ...state,
-        isLoading: true,
       };
     case types.DELETE_TRACKER + "_SUCCESS":
       return {
@@ -69,7 +67,6 @@ const trackerData = (state = initialState, action) => {
     case types.UPDATE_TRACKER + "_BEGIN":
       return {
         ...state,
-        isLoading: true,
       };
     case types.UPDATE_TRACKER + "_SUCCESS":
       return {

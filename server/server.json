@@ -16,9 +16,19 @@
       "email": "jilsewris22@gmail.com"
     },
     {
-      "id": "4",
-      "name": "Jill Lewis",
-      "email": "jilsewris22@gmail.com"
+      "id": "a7cf301e-b89b-4060-9c18-7787d155a134",
+      "name": "Samantha Feri",
+      "email": "samantha.feri@gmail.com"
+    },
+    {
+      "id": "16762a4e-33ef-45f2-85a2-cbe773f8dfca",
+      "name": "Michael Wift",
+      "email": "michael.wift@gmail.com"
+    },
+    {
+      "id": "9848ec9e-826a-4d75-bcd3-649abbf442d8",
+      "name": "Jennifer Lopez",
+      "email": "Jennifer Lopez"
     }
   ],
   "company": [
@@ -41,6 +51,16 @@
       "id": "dce3467e-93a9-4cf1-9881-507e0954664d",
       "name": "Karya Abadi",
       "email": "karya.abadi@gmail.com"
+    },
+    {
+      "id": "87177294-4e71-4a86-b3b7-59ab6faaf67e",
+      "name": "Jaya Baru",
+      "email": "jaya.baru@gmail.com"
+    },
+    {
+      "id": "110a9f8f-51c0-407d-a719-ee39ce58ffc5",
+      "name": "Cipta Daya ",
+      "email": "cipta.daya@gmail.com"
     }
   ],
   "pic": [
@@ -55,11 +75,6 @@
       "email": "jilsewris22@gmail.com"
     },
     {
-      "id": "4",
-      "name": "Jill Lewis",
-      "email": "jilsewris22@gmail.com"
-    },
-    {
       "name": "John Doe",
       "email": "john.doe@gmail.com",
       "id": "3032c821-dbdd-46c8-b59c-cbe95fee4ff2"
@@ -68,6 +83,16 @@
       "id": "3925c391-f228-4dcd-84c5-de1ee560765a",
       "name": "Reynold Hugh",
       "email": "reynold.hugh@gmail.com"
+    },
+    {
+      "id": "0f39c568-dca5-456e-8e79-3b9c4a5df999",
+      "name": "William Gram",
+      "email": "william.gram@gmail.com"
+    },
+    {
+      "name": "Nigel Mansell",
+      "email": "nigel.mansell112@gmail.com",
+      "id": "41f7c097-5a46-463e-936f-7866b03d12b0"
     }
   ],
   "tracker": [
@@ -84,20 +109,6 @@
       "pic": "Jamie Harington",
       "status": "HR Interview",
       "id": "86f1513e-5aa6-4117-98d6-4a88ea86fdbf"
-    },
-    {
-      "talent": "Jamie Harington",
-      "company": "Agung Jaya Baru",
-      "pic": "Jill Lewis",
-      "status": "Accepted",
-      "id": "b6871df1-308d-4204-9c99-9ae97e842352"
-    },
-    {
-      "id": "5b60da30-0865-4663-8198-6bb4160545a1",
-      "talent": "Jamie Harington",
-      "company": "Agung Jaya Baru",
-      "pic": "Jamie Harington",
-      "status": "Rejected"
     },
     {
       "id": "8da6279a-0a31-4c29-aa04-a4021a492942",
