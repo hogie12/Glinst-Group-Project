@@ -123,6 +123,27 @@
       "company": "Karya Abadi",
       "pic": "John Doe",
       "status": "HR Interview"
+    },
+    {
+      "id": "95ee11e6-cbe0-48c2-92fe-9c20ad069c41",
+      "talent": "Samantha Feri",
+      "company": "Surya Citra Media",
+      "pic": "William Gram",
+      "status": "Review"
+    },
+    {
+      "talent": "Jennifer Lopez",
+      "company": "Cipta Daya ",
+      "pic": "Nigel Mansell",
+      "status": "Rejected",
+      "id": "8b54c3c6-81b8-4d48-bd85-f7ade0a466d9"
+    },
+    {
+      "id": "97c42032-a67c-4d48-86eb-c870d8b3ff10",
+      "talent": "Jennifer Lopez",
+      "company": "Jaya Baru",
+      "pic": "Nigel Mansell",
+      "status": "Offer"
     }
   ]
 }
