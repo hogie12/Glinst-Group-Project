@@ -1,0 +1,24 @@
+export const GET_TALENT = "GET_TALENT";
+export const GET_COMPANY = "GET_COMPANY";
+export const GET_PIC = "GET_PIC";
+export const GET_TRACKER = "GET_TRACKER";
+
+export const CREATE_TALENT = "CREATE_TALENT";
+export const CREATE_COMPANY = "CREATE_COMPANY";
+export const CREATE_PIC = "CREATE_PIC";
+export const CREATE_TRACKER = "CREATE_TRACKER";
+
+export const UPDATE_TALENT = "UPDATE_TALENT";
+export const UPDATE_COMPANY = "UPDATE_COMPANY";
+export const UPDATE_PIC = "UPDATE_PIC";
+export const UPDATE_TRACKER = "UPDATE_TRACKER";
+
+export const DELETE_TALENT = "DELETE_TALENT";
+export const DELETE_COMPANY = "DELETE_COMPANY";
+export const DELETE_PIC = "DELETE_PIC";
+export const DELETE_TRACKER = "DELETE_TRACKER";
+
+export const GET_DETAIL_TALENT = "GET_DETAIL_TALENT";
+export const GET_DETAIL_COMPANY = "GET_DETAIL_COMPANY";
+export const GET_DETAIL_PIC = "GET_DETAIL_PIC";
+export const GET_DETAIL_TRACKER = "GET_DETAIL_TRACKER";
